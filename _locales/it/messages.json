@@ -8,7 +8,7 @@
         "description": "Description of the extension."
     },
     "contextMenuTitleTranslate": {
-        "message": "Traduci ($PAGE_LANG$\/$USER_LANG$)",
+        "message": "Traduci ($PAGE_LANG$/$USER_LANG$)",
         "description": "The contextMenus title.",
         "placeholders": {
             "page_lang": {
@@ -58,7 +58,8 @@
                 "example": "es"
             }
         }
-    },    "optionsPageTitle": {
+    },
+    "optionsPageTitle": {
         "message": "To Google Translate - Opzioni",
         "description": "Title of the options page itself."
     },
@@ -134,7 +135,7 @@
         "message": "Attiva",
         "description": "Label for the checkbox to show \"Listen\" menu item"
     },
-     "optionsTPCaption": {
+    "optionsTPCaption": {
         "message": "Traduci Pagina",
         "description": "Caption for text translation"
     },
